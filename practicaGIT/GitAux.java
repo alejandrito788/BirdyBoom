@@ -11,6 +11,7 @@ package prgitejemplo;
 public class GitAux {
     
     public void metodoAlumno1(){
+        //Modificacion
         System.out.println("metodo 1");
         System.out.println("modificado por alumno 1");
 	System.out.println("modificado por alumno 2");
@@ -22,6 +23,7 @@ public class GitAux {
     
     public void metodoComunitario(){
         //Comentario incluido para pruebas
+        //Modificacion
         System.out.println("Aqui escribimos todos");
         // modificaciones alumno 1
         System.out.println("Alumno 1 inserta esta sentencia");
